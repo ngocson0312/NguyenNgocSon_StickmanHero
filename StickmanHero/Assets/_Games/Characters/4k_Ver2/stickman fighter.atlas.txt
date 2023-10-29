@@ -1,0 +1,305 @@
+stickman fighter.png
+size:5682,3572
+filter:Linear,Linear
+pma:true
+stickman/Ashe/chan_ phai
+bounds:3669,842,310,618
+stickman/Ashe/chan_ trai
+bounds:1766,485,270,635
+rotate:90
+stickman/Ashe/dau
+bounds:4496,290,422,395
+offsets:6,9,434,410
+stickman/Ashe/tay_ trai
+bounds:3981,681,261,507
+rotate:90
+stickman/Ashe/tay_phai
+bounds:4783,999,285,497
+stickman/Ashe/than
+bounds:2897,33,93,475
+rotate:90
+stickman/BaseSkin/chan_ phai
+bounds:2912,128,310,618
+rotate:90
+stickman/BaseSkin/chan_ trai
+bounds:4026,2378,271,631
+rotate:90
+stickman/BaseSkin/dau
+bounds:3665,537,312,303
+offsets:6,6,324,315
+stickman/BaseSkin/tay_ trai
+bounds:2403,233,261,507
+rotate:90
+stickman/BaseSkin/tay_phai
+bounds:5070,960,285,497
+rotate:90
+stickman/BaseSkin/than
+bounds:5019,649,93,475
+rotate:90
+stickman/Diana/chan_ phai
+bounds:3986,2056,320,628
+rotate:90
+stickman/Diana/chan_ trai
+bounds:4061,2651,281,641
+rotate:90
+stickman/Diana/dau
+bounds:3119,2400,905,528
+stickman/Diana/no
+bounds:2,2360,1443,1210
+stickman/Diana/tay_ trai
+bounds:3146,670,271,517
+rotate:90
+stickman/Diana/tay_phai
+bounds:2403,496,299,507
+rotate:90
+stickman/Diana/than
+bounds:1693,37,124,516
+rotate:90
+stickman/Diana/that_lung
+bounds:2326,2467,145,141
+offsets:4,4,153,149
+rotate:90
+stickman/Diana/tov_sau
+bounds:1363,641,861,401
+rotate:90
+stickman/Diana/vay
+bounds:4616,1800,317,325
+offsets:0,1,317,326
+stickman/Diana/vong_co
+bounds:2211,14,133,147
+offsets:4,4,141,155
+stickman/DrStrange/ao_choang
+bounds:1447,2614,1000,956
+stickman/DrStrange/chan_ phai
+bounds:3869,1736,318,626
+rotate:90
+stickman/DrStrange/chan_ trai
+bounds:2478,2364,279,639
+rotate:90
+stickman/DrStrange/dau
+bounds:4935,2005,471,490
+offsets:4,4,479,498
+rotate:90
+stickman/DrStrange/tay_ trai
+bounds:3979,410,269,515
+rotate:90
+stickman/DrStrange/tay_phai
+bounds:4488,991,293,505
+stickman/DrStrange/than
+bounds:5427,1993,228,483
+stickman/DrStrange/that lung
+bounds:4920,389,258,424
+offsets:0,1,259,426
+rotate:90
+stickman/DrStrange/vai phai
+bounds:5360,233,184,186
+stickman/DrStrange/vai_gap
+bounds:4920,240,147,438
+rotate:90
+stickman/DrStrange/vai_trai
+bounds:4497,1916,108,138
+stickman/DrStrange/vay_phai
+bounds:4659,2127,274,493
+offsets:0,0,274,495
+stickman/DrStrange/vay_sau_phai
+bounds:5019,744,214,469
+rotate:90
+stickman/DrStrange/vay_sau_trai
+bounds:3532,114,196,463
+rotate:90
+stickman/DrStrange/vay_trai
+bounds:5425,1498,235,493
+offsets:0,0,235,494
+stickman/DrStrange/vay_trong
+bounds:4801,713,216,284
+offsets:4,4,224,292
+stickman/DrStrange/vong
+bounds:4836,1569,159,219
+offsets:5,4,168,228
+rotate:90
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00002
+bounds:5138,21,217,219
+offsets:18,313,1000,1000
+rotate:90
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00003
+bounds:4490,687,302,309
+offsets:3,319,1000,1000
+rotate:90
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00004
+bounds:5070,1247,481,348
+offsets:1,325,1000,1000
+rotate:90
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00005
+bounds:3154,1693,713,369
+offsets:3,325,1000,1000
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00006
+bounds:1447,2257,877,355
+offsets:13,340,1000,1000
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00007
+bounds:2478,1485,877,338
+offsets:26,358,1000,1000
+rotate:90
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00008
+bounds:2818,1500,862,334
+offsets:46,363,1000,1000
+rotate:90
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00009
+bounds:3154,2064,830,334
+offsets:77,359,1000,1000
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00010
+bounds:2350,797,686,329
+offsets:222,349,1000,1000
+rotate:90
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00011
+bounds:1693,163,651,320
+offsets:258,346,1000,1000
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00012
+bounds:4942,2478,596,302
+offsets:309,343,1000,1000
+vfx/Slash1/Elements - Energy 020 Slash1 Ray Right noCT noRSZ_00013
+bounds:3928,1475,556,259
+offsets:336,343,1000,1000
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00000
+bounds:3146,943,521,517
+offsets:68,459,1000,1000
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00001
+bounds:3119,2930,640,940
+offsets:91,19,1000,1000
+rotate:90
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00002
+bounds:584,1411,697,947
+offsets:104,0,1000,1000
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00003
+bounds:2449,2645,668,925
+offsets:135,0,1000,1000
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00004
+bounds:4061,2934,636,880
+offsets:170,0,1000,1000
+rotate:90
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00005
+bounds:2,14,602,828
+offsets:205,0,1000,1000
+rotate:90
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00006
+bounds:832,6,624,859
+offsets:184,0,1000,1000
+rotate:90
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00007
+bounds:1283,1504,598,751
+offsets:210,0,1000,1000
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00008
+bounds:1883,1500,593,755
+offsets:215,0,1000,1000
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00009
+bounds:1766,757,582,741
+offsets:222,0,1000,1000
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00010
+bounds:4943,3012,558,737
+offsets:235,0,1000,1000
+rotate:90
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00011
+bounds:3981,944,505,529
+offsets:277,0,1000,1000
+vfx/Slash2/Elements - Energy 030 Slash Right noCT noRSZ_00012
+bounds:4935,1730,273,488
+offsets:475,0,1000,1000
+rotate:90
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00000
+bounds:5420,1273,216,223
+offsets:47,408,1000,1000
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00001
+bounds:4448,63,348,225
+offsets:57,407,1000,1000
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00002
+bounds:2346,2,549,229
+offsets:53,404,1000,1000
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00003
+bounds:2681,797,686,229
+offsets:52,403,1000,1000
+rotate:90
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00004
+bounds:3154,1462,772,229
+offsets:89,399,1000,1000
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00005
+bounds:4943,2782,703,228
+offsets:176,399,1000,1000
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00006
+bounds:2912,787,711,232
+offsets:191,397,1000,1000
+rotate:90
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00007
+bounds:2912,440,635,228
+offsets:276,397,1000,1000
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00008
+bounds:3549,312,411,223
+offsets:511,399,1000,1000
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00009
+bounds:3997,26,354,219
+offsets:583,401,1000,1000
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00010
+bounds:4798,21,338,217
+offsets:601,403,1000,1000
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00011
+bounds:4497,1586,337,212
+offsets:606,406,1000,1000
+vfx/Slash3/Elements - Energy 029 Slash Right noCT noRSZ_00012
+bounds:5359,28,317,203
+offsets:626,410,1000,1000
+vfx/smoke right/smoke right_00000
+bounds:2912,670,111,29
+offsets:33,160,334,334
+vfx/smoke right/smoke right_00001
+bounds:2346,322,161,54
+offsets:39,152,334,334
+rotate:90
+vfx/smoke right/smoke right_00002
+bounds:4353,66,179,71
+offsets:46,152,334,334
+rotate:90
+vfx/smoke right/smoke right_00003
+bounds:5490,781,177,76
+offsets:55,151,334,334
+rotate:90
+vfx/smoke right/smoke right_00004
+bounds:5540,2603,177,81
+offsets:60,149,334,334
+rotate:90
+vfx/smoke right/smoke right_00005
+bounds:2912,701,177,84
+offsets:64,148,334,334
+vfx/smoke right/smoke right_00006
+bounds:4486,1498,177,86
+offsets:67,147,334,334
+vfx/smoke right/smoke right_00007
+bounds:3374,36,151,90
+offsets:97,143,334,334
+vfx/smoke right/smoke right_00008
+bounds:3549,576,103,92
+offsets:148,141,334,334
+vfx/smoke right/smoke right_00009
+bounds:1283,2257,101,92
+offsets:152,140,334,334
+rotate:90
+vfx/smoke right/smoke right_00010
+bounds:4665,1498,94,86
+offsets:161,140,334,334
+vfx/smoke right/smoke right_00011
+bounds:1693,548,91,71
+offsets:164,139,334,334
+rotate:90
+vfx/smoke right/smoke right_00012
+bounds:2346,288,32,55
+offsets:224,139,334,334
+rotate:90
+weapon/blade_diana
+bounds:2,618,580,1740
+weapon/pistol
+bounds:5346,421,226,152
+rotate:90
+weapon/rifle
+bounds:3997,247,449,161
+weapon/shield
+bounds:584,632,777,777
+weapon/uzi
+bounds:4704,2622,310,236
+rotate:90

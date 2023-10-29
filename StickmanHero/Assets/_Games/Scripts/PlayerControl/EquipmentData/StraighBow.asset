@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae464fbd74765c341950f37479e8e686, type: 3}
+  m_Name: StraighBow
+  m_EditorClassIdentifier: 
+  itemName: CrossBow
+  itemType: 1
+  damage: 0
+  durability: 0
+  attackRange: 50
+  moveSets:
+  - animationName: StraightBow
+    activeSound: {fileID: 0}
+    impactSound: {fileID: 0}
+  weaponType: 2
+  prefab: {fileID: 434946097050466503, guid: ebc3835587e30124f87509e490c8c127, type: 3}
+  arrowPrefab: {fileID: 1799318230032945930, guid: b55ff36752b5af0429e04da7d1d8cb3d, type: 3}
+  offsetPos: {x: 0.5, y: 1.2, z: 0}
+  isStraigh: 1

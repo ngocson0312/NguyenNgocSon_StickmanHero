@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1a7e7ce1f1c9e40ba7e76acd5a166d, type: 3}
+  m_Name: SkinCoin
+  m_EditorClassIdentifier: 
+  listSkin:
+  - skinName: Base
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: 8aef1bb6f368c2a4a8a9c67320e35cc0, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: Ashe
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: 14f64122638bdbf46b1b2f4569b8dc5f, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: Batman
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: 5b4f6d98a7a1b2d46bb03999fa1534c9, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: Sonic
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: df043fd9c1e813348bb7ba67db648aa2, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: Boss
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: e04d5a410a089dc40b52b2d5c7ce7b4e, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: Captain
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: 3ff27840ac0ecd6489028247906b9ca0, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: HarryPotter
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: 62e393356967534448991513015d037c, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: Hellboy
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: 726bf3bb842785f4c9c549668f2ffef3, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: Ironman
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: 3631e6c8704ae3c4aaa756318c199a21, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: RocketTeam1
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: d4b219404a9af5e45a5af9f2f554ac52, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: Ver2/AmongUs
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: d62de959917e164499511ec358303c68, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: Ver2/Mummy
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: 8830f589367067940b6853d3bc04ca22, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: Ver2/Luffy
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: 2a16e89f9c5771d4fbb5bb23b01203f9, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: Ver2/Mario
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: f5392689164cd644ab7a4f97afa41754, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 
+  - skinName: Ver2/Death
+    character: {fileID: 0}
+    avatar: {fileID: 21300000, guid: 4ef42d8898e5f4d4c871ffb4f6b02c3f, type: 3}
+    levelUnlock: 0
+    skinType: 0
+    packageName: 

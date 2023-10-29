@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "659678642086",
+    "firebase_url": "https://game4test-4e65f-default-rtdb.firebaseio.com",
+    "project_id": "game4test-4e65f",
+    "storage_bucket": "game4test-4e65f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659678642086:android:315184bc603c863fea5967",
+        "android_client_info": {
+          "package_name": "com.xgame.frame.and"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659678642086-6dtn6cfvh7rlvc1aldujrfkcb9oq1nob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMZN72fYwIcOxQn_U2Y3TiYE9ejZUPvKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659678642086-6dtn6cfvh7rlvc1aldujrfkcb9oq1nob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "659678642086-lio27tlpco0igbfj3dlrf8plqqt5ukis.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.xgame.frame.and"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+ }

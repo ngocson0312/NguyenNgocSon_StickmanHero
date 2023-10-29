@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb1a7e7ce1f1c9e40ba7e76acd5a166d, type: 3}
+  m_Name: SkinPestige
+  m_EditorClassIdentifier: 
+  listSkin:
+  - skinName: Prestige/Riven
+    character: {fileID: 7939217087785848370, guid: 2aef2b5b4d8756e4ca2ec49aaf731d4f, type: 3}
+    avatar: {fileID: 21300000, guid: 88783a1d46b5885499633d2c62502957, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/Kaisa
+    character: {fileID: 8853940718909715754, guid: 1d6f11d757bf44e42a5f23e8d4f858e1, type: 3}
+    avatar: {fileID: 21300000, guid: f74203a8b1aa3044e9774b43e7cca559, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/Akali
+    character: {fileID: 8245397030420620349, guid: 77b5b8af742dd9447bfb26461b572764, type: 3}
+    avatar: {fileID: 21300000, guid: a9a00f47896c5de449a3d8d864ba5c12, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/Idun
+    character: {fileID: 8097913093865353512, guid: 677a44e2ab6455449b4594ad5d0311f8, type: 3}
+    avatar: {fileID: 21300000, guid: 9d8a027122bc56b4d9c8e3f17a3ef7a3, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/Kratos
+    character: {fileID: 6449017127419735137, guid: 4ff1e49c8ae94724d8fd9eb509384cbd, type: 3}
+    avatar: {fileID: 21300000, guid: 1049f101b67e38e4aae6323bea565750, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/MoonKnight
+    character: {fileID: 3202960518513984255, guid: 3bf6dd953f7330e48ace4a4dfbcaec58, type: 3}
+    avatar: {fileID: 21300000, guid: 303d5faacebee45468a7dde1fee74f74, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/Qiyana
+    character: {fileID: 5338542298542783668, guid: f8aa6b9bd27eafe46a36ce10bd66d588, type: 3}
+    avatar: {fileID: 21300000, guid: 147c9543232d753478d66c2d58941fe9, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/Vi
+    character: {fileID: 4014255777627866447, guid: e41364d76f7ad7f46bb858d8d292b7fc, type: 3}
+    avatar: {fileID: 21300000, guid: 72c667b0cf7318e47bc5e8c209356a33, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/ViraBot
+    character: {fileID: 3634329194428924432, guid: 393f0a7ac4a0ec740ad94cad24ab7fb7, type: 3}
+    avatar: {fileID: 21300000, guid: b7c91aca0aa4f314f875467c723ca362, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/Wonder Woman
+    character: {fileID: 226039665044638556, guid: ec163e542074f07438be145a7df2702b, type: 3}
+    avatar: {fileID: 21300000, guid: ae78142cb6b4b71489c61603b98b981d, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/Yasuo
+    character: {fileID: 4720321535632342994, guid: c7218ef96d7023b489a8a8da4a3594f8, type: 3}
+    avatar: {fileID: 21300000, guid: fb536aa4dab2e8d47b95d03a3f9e0805, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/Leesin
+    character: {fileID: 7253220929918920354, guid: 7cd37d9156a1dc548ac51f540b1bd393, type: 3}
+    avatar: {fileID: 21300000, guid: 69673026971416e4db6bdb78bf89c133, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/Lux
+    character: {fileID: 2885993421578956836, guid: a59a36455258aa240896c0c3072c0d2e, type: 3}
+    avatar: {fileID: 21300000, guid: 6a4403b0dabded44fa1598f89bd297f0, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/Sona
+    character: {fileID: 8612148586472181614, guid: 03d2260313884ed41a83ff2263dc8bae, type: 3}
+    avatar: {fileID: 21300000, guid: c6d9819ad8ab54649b3a368c73c17b69, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/Diana
+    character: {fileID: 9003609718837860434, guid: 2591e19302fad504b910f9b3f9b45bae, type: 3}
+    avatar: {fileID: 21300000, guid: 65fbf57055eb2a446bbe7b4bd76031d1, type: 3}
+    levelUnlock: 0
+    skinType: 4
+  - skinName: Prestige/DrStrange
+    character: {fileID: 7479779748216168382, guid: 35cc6b0ecb03d8f4aac1eef8d45d1ae0, type: 3}
+    avatar: {fileID: 21300000, guid: ee9cd8cce16d14f418a29aabc29e7131, type: 3}
+    levelUnlock: 0
+    skinType: 4

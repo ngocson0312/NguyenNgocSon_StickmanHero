@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5456839a8109bef4f9abef4b89952bd2, type: 3}
+  m_Name: LegendSkinVenom
+  m_EditorClassIdentifier: 
+  packName: Legend Skin 2
+  packageName: skinvenom
+  packType: 1
+  salePercent: 50
+  coinAdd: 0
+  chestAdd: 0
+  swordAdd: 0
+  bowAdd: 0
+  spineTicketAdd: 0
+  skinAdd:
+  - {fileID: 11400000, guid: a1c1e5dd41642a04d8f9773c4c771248, type: 2}

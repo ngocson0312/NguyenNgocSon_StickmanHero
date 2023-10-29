@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: text_defaultCHAOTIC_critical_ac_TMP
+  m_Controller: {fileID: 9100000, guid: 0b863d21a26d7b141989aedd104abea3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ba2b3fb23cb3a9a4b80ff69c4e45970d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 08cf27f51affa9543b8f7a579ff13b10, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: df11afdf4010f884b96996c551e266c8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2849934fb2da6a54288e83419849a856, type: 2}

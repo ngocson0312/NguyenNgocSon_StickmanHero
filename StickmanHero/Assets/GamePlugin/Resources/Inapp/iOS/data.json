@@ -1,0 +1,480 @@
+{
+  "default": {
+    "sub": [
+      {
+        "id": "subcription_week",
+        "pkg": "stickman.craft.subcription1",
+        "period": 7,
+        "price": "9.99$",
+        "receiver": {
+          "removeads": 1
+        }
+      },
+      {
+        "id": "subcription_month",
+        "pkg": "stickman.craft.subcription2",
+        "period": 30,
+        "price": "29.99$",
+        "receiver": {
+          "removeads": 1
+        }
+      },
+      {
+        "id": "subcription_3month",
+        "pkg": "stickman.craft.subcription3",
+        "price": "49.99$",
+        "period": 90,
+        "receiver": {
+          "removeads": 1
+        }
+      }
+    ],
+    "non_consum": [
+      {
+        "id": "removeads",
+        "pkg": "stickman.combat.removeads",
+        "price": "1.99$",
+        "receiver": {
+          "removeads": 1
+        }
+      }
+    ],
+    "consum": [
+      {
+        "id": "superlegendskinsale",
+        "pkg": "stickman.craft.superlegendskinsale",
+        "price": "16.99$",
+        "receiver": {}
+      },
+      {
+        "id": "superlegendskin",
+        "pkg": "stickman.craft.superlegendskin",
+        "price": "33.99$",
+        "receiver": {}
+      },
+      {
+        "id": "goldpack1sale",
+        "pkg": "stickman.combat.goldpack1sale",
+        "price": "1.99$",
+        "receiver": {
+          "money": "gold:15000"
+        }
+      },
+      {
+        "id": "goldpack1",
+        "pkg": "stickman.craft.goldpack1",
+        "price": "3.99$",
+        "receiver": {
+          "money": "gold:15000"
+        }
+      },
+      {
+        "id": "goldpack2sale",
+        "pkg": "stickman.combat.goldpack2sale",
+        "price": "4.99$",
+        "receiver": {
+          "money": "gold:50000"
+        }
+      },
+      {
+        "id": "goldpack2",
+        "pkg": "stickman.craft.goldpack2",
+        "price": "9.99$",
+        "receiver": {
+          "money": "gold:50000"
+        }
+      },
+      {
+        "id": "goldpack3sale",
+        "pkg": "stickman.combat.goldpack3sale",
+        "price": "9.99$",
+        "receiver": {
+          "money": "gold:150000"
+        }
+      },
+      {
+        "id": "goldpack3",
+        "pkg": "stickman.craft.goldpack3",
+        "price": "19.99$",
+        "receiver": {
+          "money": "gold:150000"
+        }
+      },
+      {
+        "id": "goldpack4sale",
+        "pkg": "stickman.craft.goldpack4sale",
+        "price": "19.99$",
+        "receiver": {
+          "money": "gold:400000"
+        }
+      },
+      {
+        "id": "goldpack4",
+        "pkg": "stickman.combat.goldpack4",
+        "price": "39.99$",
+        "receiver": {
+          "money": "gold:400000"
+        }
+      },
+      {
+        "id": "goldpack5",
+        "pkg": "stickman.combat.goldpack5",
+        "price": "99.99$",
+        "receiver": {
+          "money": "gold:1200000"
+        }
+      },
+      {
+        "id": "goldpack5sale",
+        "pkg": "stickman.craft.goldpack5sale",
+        "price": "49.99$",
+        "receiver": {
+          "money": "gold:1200000"
+        }
+      },
+      {
+        "id": "goldpack6",
+        "pkg": "stickman.combat.goldpack6",
+        "price": "199.99$",
+        "receiver": {
+          "money": "gold:3000000"
+        }
+      },
+      {
+        "id": "goldpack6sale",
+        "pkg": "stickman.craft.goldpack6sale",
+        "price": "99.99$",
+        "receiver": {
+          "money": "gold:3000000"
+        }
+      },
+      {
+        "id": "coinsale1sale",
+        "pkg": "stickman.craft.coinsale1sale",
+        "price": "4.99$",
+        "receiver": {
+          "money": "gold:5000"
+        }
+      },
+      {
+        "id": "coinsale1",
+        "pkg": "stickman.craft.coinsale1",
+        "price": "9.99$",
+        "receiver": {
+          "money": "gold:5000"
+        }
+      },
+      {
+        "id": "coinsale2sale",
+        "pkg": "stickman.craft.coinsale2sale",
+        "price": "4.99$",
+        "receiver": {
+          "money": "gold:25000"
+        }
+      },
+      {
+        "id": "coinsale2",
+        "pkg": "stickman.craft.coinsale2",
+        "price": "9.99$",
+        "receiver": {
+          "money": "gold:25000"
+        }
+      },
+      {
+        "id": "wellcomepack1sale",
+        "pkg": "stickman.craft.wellcomepack1sale",
+        "price": "2.99$",
+        "receiver": {
+          "money": "gold:4000"
+        }
+      },
+      {
+        "id": "wellcomepack1",
+        "pkg": "stickman.combat.wellcomepack1",
+        "price": "5.99$",
+        "receiver": {
+          "money": "gold:4000"
+        }
+      },
+      {
+        "id": "wellcomepack2sale",
+        "pkg": "stickman.craft.wellcomepack2sale",
+        "price": "6.99$",
+        "receiver": {
+          "removeads": 1,
+          "money": "gold:10000"
+        }
+      },
+      {
+        "id": "wellcomepack2",
+        "pkg": "stickman.combat.wellcomepack2",
+        "price": "13.99$",
+        "receiver": {
+          "removeads": 1,
+          "money": "gold:10000"
+        }
+      },
+      {
+        "id": "wellcomepack3sale",
+        "pkg": "stickman.craft.wellcomepack3sale",
+        "price": "9.99$",
+        "receiver": {
+          "removeads": 1,
+          "money": "gold:25000"
+        }
+      },
+      {
+        "id": "wellcomepack3",
+        "pkg": "stickman.combat.wellcomepack3",
+        "price": "19.99$",
+        "receiver": {
+          "removeads": 1,
+          "money": "gold:25000"
+        }
+      },
+      {
+        "id": "fullskin",
+        "pkg": "stickman.craft.fullskin",
+        "price": "99.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinkaisasale",
+        "pkg": "stickman.craft.kaisasale",
+        "price": "5.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinkaisa",
+        "pkg": "stickman.craft.kaisa",
+        "price": "11.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinrivensale",
+        "pkg": "stickman.craft.rivensale",
+        "price": "4.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinriven",
+        "pkg": "stickman.craft.riven",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinvenomsale",
+        "pkg": "stickman.craft.venomsale",
+        "price": "0.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinvenom",
+        "pkg": "stickman.craft.venom",
+        "price": "1.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinpeacemakersale",
+        "pkg": "stickman.craft.peacemakersale",
+        "price": "0.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinpeacemaker",
+        "pkg": "stickman.craft.peacemaker",
+        "price": "1.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinakali",
+        "pkg": "stickman.craft.akali",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinidun",
+        "pkg": "stickman.craft.idun",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinkratos",
+        "pkg": "stickman.craft.kratos",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinmoonknight",
+        "pkg": "stickman.craft.moonknight",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinqiyana",
+        "pkg": "stickman.craft.qiyana",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinvi",
+        "pkg": "stickman.craft.vi",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinvirabot",
+        "pkg": "stickman.craft.virabot",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinwonderwoman",
+        "pkg": "stickman.craft.wonderwoman",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinyasuo",
+        "pkg": "stickman.craft.yasuo",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinleesin",
+        "pkg": "stickman.craft.leesin",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinlux",
+        "pkg": "stickman.craft.lux",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skinsona",
+        "pkg": "stickman.craft.sona",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skindiana",
+        "pkg": "stickman.craft.diana",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "skindrstrange",
+        "pkg": "stickman.craft.drstrange",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "starterpacksale",
+        "pkg": "stickman.craft.starterpacksale",
+        "price": "2.99$",
+        "receiver": {}
+      },
+      {
+        "id": "starterpack",
+        "pkg": "stickman.combat.starterpack",
+        "price": "5.99$",
+        "receiver": {}
+      },
+      {
+        "id": "superlevelup1sale",
+        "pkg": "stickman.craft.superlevelup1sale",
+        "price": "2.99$",
+        "receiver": {}
+      },
+      {
+        "id": "superlevelup1",
+        "pkg": "stickman.combat.superlevelup1",
+        "price": "5.99$",
+        "receiver": {}
+      },
+      {
+        "id": "superlevelup2sale",
+        "pkg": "stickman.craft.superlevelup2sale",
+        "price": "4.99$",
+        "receiver": {}
+      },
+      {
+        "id": "superlevelup2",
+        "pkg": "stickman.combat.superlevelup2",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "superlevelup3sale",
+        "pkg": "stickman.craft.superlevelup3sale",
+        "price": "9.99$",
+        "receiver": {}
+      },
+      {
+        "id": "superlevelup3",
+        "pkg": "stickman.combat.superlevelup3",
+        "price": "19.99$",
+        "receiver": {}
+      },
+      {
+        "id": "superweekly1sale",
+        "pkg": "stickman.craft.nosub.superweekly1sale",
+        "price": "1.99$",
+		"mem_price": 1,
+        "receiver": {}
+      },
+      {
+        "id": "superweekly1",
+        "pkg": "stickman.craft.superweekly1",
+        "price": "3.99$",
+		"mem_price": 1,
+        "receiver": {}
+      },
+      {
+        "id": "superweekly2sale",
+        "pkg": "stickman.craft.nosub.superweekly2sale",
+        "price": "4.99$",
+		"mem_price": 1,
+        "receiver": {}
+      },
+      {
+        "id": "superweekly2",
+        "pkg": "stickman.craft.superweekly2",
+        "price": "9.99$",
+		"mem_price": 1,
+        "receiver": {}
+      },
+      {
+        "id": "superweekly3sale",
+        "pkg": "stickman.craft.nosub.superweekly3sale",
+        "price": "9.99$",
+		"mem_price": 1,
+        "receiver": {}
+      },
+      {
+        "id": "superweekly3",
+        "pkg": "stickman.craft.superweekly3",
+        "price": "19.99$",
+		"mem_price": 1,
+        "receiver": {}
+      },
+      {
+        "id": "superweekly4sale",
+        "pkg": "stickman.craft.nosub.superweekly4sale",
+        "price": "4.99$",
+		"mem_price": 1,
+        "receiver": {}
+      },
+      {
+        "id": "superweekly4",
+        "pkg": "stickman.craft.superweekly4",
+        "price": "9.99$",
+		"mem_price": 1,
+        "receiver": {}
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b4de975b52a65c4cabdab867faa1d09, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  itemName: Sword
+  itemType: 1
+  damage: 15
+  durability: 0
+  attackRange: 2.3
+  moveSets:
+  - animationName: Slash1
+    activeSound: {fileID: 0}
+    impactSound: {fileID: 0}
+  - animationName: Slash2
+    activeSound: {fileID: 0}
+    impactSound: {fileID: 0}
+  - animationName: Slash3
+    activeSound: {fileID: 0}
+    impactSound: {fileID: 0}
+  weaponType: 1
+  prefab: {fileID: 180712638354289688, guid: 49289f851f539894686d73541ce2b23f, type: 3}

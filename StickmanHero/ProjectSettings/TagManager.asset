@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy Patrol
+  - Platform
+  - Target
+  - Goal
+  - Ledge Hang
+  - Sword
+  - popmncan
+  - subscripcam
+  - Admix
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Object
+  - Ground
+  - Player
+  - Item
+  - 
+  - 
+  - Projectile
+  - IDamage
+  - Platform
+  - Trap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Vfx
+    uniqueID: 610441167
+    locked: 0
+  - name: Text
+    uniqueID: 2662976369
+    locked: 0

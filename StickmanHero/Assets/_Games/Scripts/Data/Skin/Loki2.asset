@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a6c3bcd27253d441a99f599b21830ae, type: 3}
+  m_Name: Loki2
+  m_EditorClassIdentifier: 
+  id: 0
+  skinName: Card/Loki2
+  avatar: {fileID: 21300000, guid: d29a453545151134695e67a119ee7fac, type: 3}
+  character: {fileID: 0}

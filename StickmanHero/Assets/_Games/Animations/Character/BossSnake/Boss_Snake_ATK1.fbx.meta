@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 2d73647a0a41bb146995863b641ac34b
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -7351135092192604260
+    second: ATK1_Snake
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'RightUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Boss_Snake_ATK1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root_M
+      parentName: Boss_Snake_ATK1(Clone)
+      position: {x: -4.9630836e-26, y: 2.6258156, z: 1.0584338}
+      rotation: {x: -0.21719266, y: -0.67292446, z: 0.21719266, w: 0.67292446}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackA_M
+      parentName: Root_M
+      position: {x: -0.21987313, y: 0.0015599325, z: -6.773162e-10}
+      rotation: {x: -0.000000014901161, y: -0.000000029802322, z: -0.78180754, w: 0.6235199}
+      scale: {x: 0.9976749, y: 0.9976749, z: 0.9976749}
+    - name: BackA1_M
+      parentName: BackA_M
+      position: {x: -0.30153716, y: -0.00008664357, z: -0.0000000027654397}
+      rotation: {x: -0.0000000034527265, y: 0.00000004243646, z: 0.041432116, w: 0.99914134}
+      scale: {x: 0.9965123, y: 0.9965123, z: 0.9965123}
+    - name: BackA2_M
+      parentName: BackA1_M
+      position: {x: -0.3272258, y: 0.0000000339109, z: -0.0000000026962905}
+      rotation: {x: -0.000000009730469, y: -0.000000011285501, z: -0.0031410188, w: 0.99999505}
+      scale: {x: 0.99534976, y: 0.99534976, z: 0.99534976}
+    - name: BackA2Part1_M
+      parentName: BackA2_M
+      position: {x: -0.11777772, y: 0.000000003369804, z: -7.380004e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99534976, y: 0.99534976, z: 0.99534976}
+    - name: BackA2Part2_M
+      parentName: BackA2Part1_M
+      position: {x: -0.11777772, y: 0.000000003369804, z: -7.380004e-10}
+      rotation: {x: 0.00000020861621, y: -0.60529405, z: -0.000000089406946, w: 0.796002}
+      scale: {x: 0.99534976, y: 0.99534976, z: 0.99534976}
+    - name: BackA3_M
+      parentName: BackA2Part2_M
+      position: {x: -0.11777772, y: 0.000000003369804, z: -7.380004e-10}
+      rotation: {x: 0.012360823, y: -0.10825899, z: 0.023264933, w: 0.99377364}
+      scale: {x: 0.9941872, y: 0.9941872, z: 0.9941872}
+    - name: BackB_M
+      parentName: BackA3_M
+      position: {x: -0.34987834, y: -0.00060612283, z: -0.0000000018266686}
+      rotation: {x: 0, y: -0, z: -0.0044287434, w: 0.9999902}
+      scale: {x: 0.9941872, y: 0.9941872, z: 0.9941872}
+    - name: BackC_M
+      parentName: BackB_M
+      position: {x: -0.42217457, y: 0.0021594968, z: -2.6391045e-10}
+      rotation: {x: 0.012420256, y: -0.056673653, z: -0.13555902, w: 0.9890691}
+      scale: {x: 0.99534976, y: 0.99534976, z: 0.99534976}
+    - name: BackD_M
+      parentName: BackC_M
+      position: {x: -0.40337494, y: -0.0025515922, z: 0.0000000014488959}
+      rotation: {x: 0, y: -0, z: -0.29344267, w: 0.9559767}
+      scale: {x: 0.9965123, y: 0.9965123, z: 0.9965123}
+    - name: BackE_M
+      parentName: BackD_M
+      position: {x: -0.3327231, y: 0.0007822857, z: 0.0000000021706035}
+      rotation: {x: -0.00000025852918, y: 0.00000033760486, z: 0.24419773, w: 0.9697255}
+      scale: {x: 0.9976749, y: 0.9976749, z: 0.9976749}
+    - name: BackF_M
+      parentName: BackE_M
+      position: {x: -0.33108923, y: 0.000023000754, z: 0.0000000013049622}
+      rotation: {x: 0.00000009565905, y: -0.00000042019713, z: -0.06987597, w: 0.99755573}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackI_M
+      parentName: BackF_M
+      position: {x: -0.35397154, y: -0.022740867, z: 5.3065375e-16}
+      rotation: {x: -5.572689e-10, y: 0.000000015356452, z: 0.036265038, w: 0.9993422}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackK_M
+      parentName: BackI_M
+      position: {x: -0.3450661, y: -3.5527136e-17, z: -0.00000004118408}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackK1_M
+      parentName: BackK_M
+      position: {x: -0.3256895, y: 7.105427e-17, z: -0.000000051739484}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackK2_M
+      parentName: BackK1_M
+      position: {x: -0.54740715, y: 7.105427e-17, z: -0.0000000256211}
+      rotation: {x: 0, y: -0.000000029539384, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head_M
+      parentName: Root_M
+      position: {x: 0.09985888, y: 0.0052661104, z: 2.8593815e-11}
+      rotation: {x: -0.0070637316, y: 0.015757263, z: 0.8216986, w: 0.5696606}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HeadEnd_M
+      parentName: Head_M
+      position: {x: -0.69624966, y: -1.065814e-15, z: -3.9443044e-33}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Jaw_M
+      parentName: Head_M
+      position: {x: -0.2657649, y: 0.24950689, z: -4.36694e-11}
+      rotation: {x: 0.0013527978, y: 0.0054242914, z: -0.3959342, w: 0.9182619}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JawEnd_M
+      parentName: Jaw_M
+      position: {x: -0.43340537, y: -2.842171e-16, z: 3.5299855e-16}
+      rotation: {x: -0.0029331355, y: -0.022643495, z: 0.36465752, w: 0.9308618}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

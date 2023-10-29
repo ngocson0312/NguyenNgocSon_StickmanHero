@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5456839a8109bef4f9abef4b89952bd2, type: 3}
+  m_Name: Supscription2
+  m_EditorClassIdentifier: 
+  packName: subcription_month
+  packageName: subcription_month
+  packType: 2
+  salePercent: 0
+  coinAdd: 30000
+  chestAdd: 0
+  swordAdd: 1
+  bowAdd: 1
+  spineTicketAdd: 2
+  lifeTime: 30
+  skinAdd:
+  - {fileID: 11400000, guid: 047d0a2fff1db7c47909049272a3a8a0, type: 2}
